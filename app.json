@@ -1,0 +1,7 @@
+{
+  "name": "The plant growing library",
+  "description": "A collection of tools to help you grow",
+  "repository": "https://github.com/newshorts/Biome.git",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}

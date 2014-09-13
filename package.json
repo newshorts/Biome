@@ -1,0 +1,29 @@
+{
+  "name": "biome",
+  "version": "0.1.0",
+  "description": "The plant growing library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~3.4.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newshorts/Biome.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Mike Newell",
+  "contributors": [
+    "Mike Newell <mike_newell@gspsf.com> (http://iwearshorts.com)"
+  ],
+  "license": "MIT"
+}
